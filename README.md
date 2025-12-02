@@ -1,5 +1,5 @@
-# Presentación SIG
-Presentación sobre Sistemas para el Manejo de la Información
+# Sistemas de Información en la Empresa
+Presentación sobre Sistemas de Información Gerencial
 
 ## Contenido
 - Fundamentos de SIG
